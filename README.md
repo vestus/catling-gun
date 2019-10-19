@@ -15,4 +15,4 @@ Hardware:
   
   misc wire, resistors/etc.
   
-https://imgur.com/0Xvc1Pg
+https://imgur.com/a/oSWtWZh
