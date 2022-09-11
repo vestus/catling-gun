@@ -15,6 +15,7 @@ Hardware:
   
   misc wire, resistors/etc.
   
-https://imgur.com/a/oSWtWZh
+Bulid log - https://imgur.com/a/oSWtWZh
 
 Designed to be web-controlled for duration after startup. To avoid false positives from craptacular PIR sensors, it reads the first three triggers as a baseline for further events. (Evidently cheap PIR sensors go off randomly. )
+![20190203_133620](https://user-images.githubusercontent.com/6173152/189506494-5bfd2d74-792f-4cdf-bc1a-fb4f8eb8d31a.jpg)
